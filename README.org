@@ -1,0 +1,2 @@
+* About 
+Its highly recommended to ~download and open~ the ~gif, jpeg~ files in your local device instead of github because github is not really the best place for rendering them, the images looks, frankly, crappy in github rendering.
